@@ -19,9 +19,10 @@ JavaScript | TypeScript | React | Next.js | Node.js | Express | MongoDB | Git | 
   Users can register, log in, create, edit, and delete notes.  
   Implemented REST API, CRUD operations, cookie-based authentication, and responsive UI.  
   **Technologies:** React, Next.js, Node.js, Express, MongoDB, REST API, Cookies, CSS  
-  🔗 [Frontend](https://github.com/iryna-pona/notehub-frontend)  
+  🔗 [Frontend](https://github.com/iryna-pona/notehub-frontend)
+  🌐 [Live Demo](https://09-auth-two-hazel.vercel.app)  
   🔗 [Backend](https://github.com/iryna-pona/nodejs-hw) is in progress
-  🌐 [Live Demo](https://09-auth-two-hazel.vercel.app)
+  
 
 - **Booksy — Online Booking Platform (Team Project)**  
   Team-based web application for booking services online.  

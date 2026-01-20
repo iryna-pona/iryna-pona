@@ -17,8 +17,8 @@ JavaScript | TypeScript | React | Next.js | Node.js | Express | MongoDB | Git | 
 - **NoteHub — Fullstack Notes Application**  
   Individual fullstack project with frontend and backend development.  
   Users can register, log in, create, edit, and delete notes.  
-  Implemented REST API, authentication, CRUD operations, and responsive UI.  
-  **Technologies:** React, Next.js, Node.js, Express, MongoDB, REST API, JWT, CSS  
+  Implemented REST API, CRUD operations, cookie-based authentication, and responsive UI.  
+  **Technologies:** React, Next.js, Node.js, Express, MongoDB, REST API, Cookies, CSS  
   🔗 Frontend: https://github.com/iryna-pona/09-auth  
   🔗 Backend: https://github.com/iryna-pona/nodejs-hw  
   🌐 Live Demo: https://09-auth-two-hazel.vercel.app
@@ -28,7 +28,7 @@ JavaScript | TypeScript | React | Next.js | Node.js | Express | MongoDB | Git | 
   Users can browse services, submit booking forms, and interact with dynamic UI elements.  
   Fully responsive layout for desktop and mobile devices.  
   **Role:** Frontend Developer  
-  **Technologies:** HTML5, CSS3, JavaScript (ES6+)  
+  **Technologies:** JavaScript (ES6+), HTML5, CSS3  
   🔗 GitHub: https://github.com/iryna-pona/codeV1be-js  
   🌐 Live Demo: https://diamond-foxua.github.io/codeV1be-js/  
 
@@ -36,7 +36,7 @@ JavaScript | TypeScript | React | Next.js | Node.js | Express | MongoDB | Git | 
   Responsive landing page promoting eco-friendly products with animations and interactive elements.  
   Structured layout adapted for all screen sizes.  
   **Role:** Frontend Developer  
-  **Technologies:** HTML5, CSS3, JavaScript (ES6+)  
+  **Technologies:** HTML5, CSS3  
   🔗 GitHub: https://github.com/iryna-pona/ecotote  
   🌐 Live Demo: https://diamond-foxua.github.io/ecotote/  
 

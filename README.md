@@ -19,9 +19,9 @@ JavaScript | TypeScript | React | Next.js | Node.js | Express | MongoDB | Git | 
   Users can register, log in, create, edit, and delete notes.  
   Implemented REST API, CRUD operations, cookie-based authentication, and responsive UI.  
   **Technologies:** React, Next.js, Node.js, Express, MongoDB, REST API, Cookies, CSS  
-  🔗 Frontend: https://github.com/iryna-pona/notehub-frontend  
-  🔗 Backend: https://github.com/iryna-pona/nodejs-hw  
-  🌐 Live Demo: https://09-auth-two-hazel.vercel.app
+  🔗 [Frontend](https://github.com/iryna-pona/notehub-frontend)  
+  🔗 [Backend](https://github.com/iryna-pona/nodejs-hw) is in progress
+  🌐 [Live Demo](https://09-auth-two-hazel.vercel.app)
 
 - **Booksy — Online Booking Platform (Team Project)**  
   Team-based web application for booking services online.  
@@ -29,16 +29,16 @@ JavaScript | TypeScript | React | Next.js | Node.js | Express | MongoDB | Git | 
   Fully responsive layout for desktop and mobile devices.  
   **Role:** Frontend Developer  
   **Technologies:** JavaScript (ES6+), HTML5, CSS3  
-  🔗 GitHub: https://github.com/iryna-pona/codeV1be-js  
-  🌐 Live Demo: https://diamond-foxua.github.io/codeV1be-js/  
+  🔗 [GitHub](https://github.com/iryna-pona/codeV1be-js)  
+  🌐 [Live Demo](https://diamond-foxua.github.io/codeV1be-js/)  
 
 - **EcoTote — Eco Products Landing Page (Team Project)**  
   Responsive landing page promoting eco-friendly products with animations and interactive elements.  
   Structured layout adapted for all screen sizes.  
   **Role:** Frontend Developer  
   **Technologies:** HTML5, CSS3  
-  🔗 GitHub: https://github.com/iryna-pona/ecotote  
-  🌐 Live Demo: https://diamond-foxua.github.io/ecotote/  
+  🔗 [GitHub](https://github.com/iryna-pona/ecotote)  
+  🌐 [Live Demo](https://diamond-foxua.github.io/ecotote/)  
 
 ---
 
@@ -49,6 +49,6 @@ JavaScript | TypeScript | React | Next.js | Node.js | Express | MongoDB | Git | 
 ---
 
 ## 📫 How to reach me
-- LinkedIn: www.linkedin.com/in/iryna-pona  
-- Email: ipona3710@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/iryna-pona)  
+- [Email](mailto:ipona3710@gmail.com)  
 

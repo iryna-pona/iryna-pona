@@ -19,7 +19,7 @@ JavaScript | TypeScript | React | Next.js | Node.js | Express | MongoDB | Git | 
   Users can register, log in, create, edit, and delete notes.  
   Implemented REST API, CRUD operations, cookie-based authentication, and responsive UI.  
   **Technologies:** React, Next.js, Node.js, Express, MongoDB, REST API, Cookies, CSS  
-  🔗 Frontend: https://github.com/iryna-pona/09-auth  
+  🔗 Frontend: https://github.com/iryna-pona/notehub-frontend  
   🔗 Backend: https://github.com/iryna-pona/nodejs-hw  
   🌐 Live Demo: https://09-auth-two-hazel.vercel.app
 

@@ -21,7 +21,7 @@ JavaScript | TypeScript | React | Next.js | Node.js | Express | MongoDB | Git | 
   **Technologies:** React, Next.js, Node.js, Express, MongoDB, REST API, JWT, CSS  
   🔗 Frontend: https://github.com/iryna-pona/09-auth  
   🔗 Backend: https://github.com/iryna-pona/nodejs-hw  
-  🌐 Live Demo: 09-auth-two-hazel.vercel.app
+  🌐 Live Demo: https://09-auth-two-hazel.vercel.app
 
 - **Booksy — Online Booking Platform (Team Project)**  
   Team-based web application for booking services online.  
@@ -30,7 +30,7 @@ JavaScript | TypeScript | React | Next.js | Node.js | Express | MongoDB | Git | 
   **Role:** Frontend Developer  
   **Technologies:** HTML5, CSS3, JavaScript (ES6+)  
   🔗 GitHub: https://github.com/iryna-pona/codeV1be-js  
-  🌐 Live Demo: diamond-foxua.github.io/codeV1be-js/  
+  🌐 Live Demo: https://diamond-foxua.github.io/codeV1be-js/  
 
 - **EcoTote — Eco Products Landing Page (Team Project)**  
   Responsive landing page promoting eco-friendly products with animations and interactive elements.  
@@ -38,7 +38,7 @@ JavaScript | TypeScript | React | Next.js | Node.js | Express | MongoDB | Git | 
   **Role:** Frontend Developer  
   **Technologies:** HTML5, CSS3, JavaScript (ES6+)  
   🔗 GitHub: https://github.com/iryna-pona/ecotote  
-  🌐 Live Demo: diamond-foxua.github.io/ecotote/  
+  🌐 Live Demo: https://diamond-foxua.github.io/ecotote/  
 
 ---
 
